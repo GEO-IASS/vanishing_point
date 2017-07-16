@@ -9,5 +9,5 @@ Finds the vanishing point using the following method (implemented using openCV):
 
 Example Results
 
-![alt text](foo.png "Results")
+![alt text](foo.jpg "Results")
 
